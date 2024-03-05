@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Major Skills **HTML, CSS, JavaScript, Bootstrap**
+- 💬 Major Skills **SQL, python, MySQL, mongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
