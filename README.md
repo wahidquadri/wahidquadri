@@ -1,3 +1,7 @@
+
+<h1 align="center"><img src="https://drive.google.com/file/d/1BPrG7BosjAe-n0mjGvyJJUz_SEJUDQ9B/view?usp=drive_link"</h1>
+
+
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, there</h1>
 <h3 align="center">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&duration=3000&pause=1000&color=white&vCenter=true&width=435&lines=Hey!+Its+Wahid+Quadri;Intern+Data Analyst" alt="Typing SVG" /> </h3>
 
