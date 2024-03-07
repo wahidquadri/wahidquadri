@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Major Skills **SQL, python, MySQL, mongoDB**
+- 💬 Major Skills **SQL, python, MySQL, PowerBI**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -11,6 +11,15 @@
   <a href="mailto:wahidquadri9@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/vahid_khan_000"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/vahid.khan.5283"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</div>
+
+<h3 align="left">Front-end-Technologies :</h3>
+<div align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+
 </div>
 
 <h3 align="left">Languages :</h3>
@@ -58,9 +67,3 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>  <br/>
 
-<a href="https://github.com/wahidquadri">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahidquadri&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/wahidquadri">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=wahidquadri&show_icons=true&theme=dark" />
-</a>
