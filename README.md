@@ -13,14 +13,6 @@
   <a href="https://www.facebook.com/vahid.khan.5283"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
 
-<h3 align="left">Web Tech Stack :</h3>
-<div align="left">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%23039BE5.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
-
 <h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
