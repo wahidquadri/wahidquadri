@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://drive.google.com/file/d/1BPrG7BosjAe-n0mjGvyJJUz_SEJUDQ9B/view?usp=drive_link"</h1>
+<h1 align="center"><img src="https://drive.google.com/file/d/1BPrG7BosjAe-n0mjGvyJJUz_SEJUDQ9B/view?usp=drive_link" width="50px"</h1>
 
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, there</h1>
