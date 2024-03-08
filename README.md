@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://omnidata.com/wp-content/uploads/2022/11/How-To-Take-Your-Data-Analytics-Approach-To-The-Next-Level-in-2023.jpg" width="70%" height="10%"></h1>
+<h1 align="center"><img src="https://omnidata.com/wp-content/uploads/2022/11/How-To-Take-Your-Data-Analytics-Approach-To-The-Next-Level-in-2023.jpg" width="100%" height="500px"></h1>
 
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, there</h1>
